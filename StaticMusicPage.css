@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back-container {
+    background-color: #111257;
+    height: 100vh;
+    background-size: cover;
+}
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    background-size: cover;
+    height: 80%;
+
+}
+
+.heading1 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.heading2 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.card-container1 {
+    padding: 125px;
+    padding-bottom: 25px;
+
+}
+
+.card-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    width: 70vw;
+    height: 300px;
+    margin: 55px;
+
+}
+
+.descp1 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 35px;
+    width: 120px;
+
+
+}
+
+.contra1 {
+    text-align: center;
+}
+
+.night {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.bg-color {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100%;
+    width: 86vh;
+
+
+}
+
+.card-container1 {
+    padding: 15px;
+}
+
+.image3 {
+    height: 60vh;
+    padding: 5px;
+
+}
+
+.heading3 {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.para3 {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #98a1bd;
+}
+
+.para4 {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #98a1bd;
+}
+
+.heading4 {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.img-container {
+    padding: 5px;
+    margin: 15px;
+    padding-right: 12px;
+}
+
+.image4 {
+    padding: 15px;
+    height: 300px;
+    width: 300px;
+
+}
+
+.heading5 {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #ffffff;
+
+}
+
+.para5 {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #98a1bd;
+
+}
+
+.container {
+    padding: 20px;
+}
+
+.button5 {
+    border-radius: 20px;
+    border-width: 0px;
+    color: #ffffff;
+    background-color: #8e97fd;
+    height: 35px;
+    width: 120px;
+    text-align: center;
+}
+
+.button-cont {
+    padding-left: 35px;
+    padding-bottom: 25px;
+
+}
